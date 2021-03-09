@@ -4,7 +4,6 @@ from discord.ext.commands import Bot
 import json
 import os 
 import random
-import requests
 
 
 
